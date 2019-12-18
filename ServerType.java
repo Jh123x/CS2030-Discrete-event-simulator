@@ -1,0 +1,3 @@
+enum ServerType{
+    HUMAN,MACHINE;    
+}
